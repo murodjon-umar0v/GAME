@@ -169,7 +169,6 @@ body {
   align-items: center;
 }
 
-
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
